@@ -1,1 +1,39 @@
+body{
+    background-color:rgb(161, 211, 211)
+    
+}
 
+.Headdings{
+    font-family: cursive;
+    color: rgb(15, 40, 63);
+    text-align: center;
+    background-color: darkcyan;
+ font-size: 40px;
+ font-weight: 300px;
+ border: 10px , solid;
+border-radius: 20px;
+border-color:darkcyan;
+}
+
+.Subheddings{
+text-decoration-line: underline;
+font-family: cursive;
+color:rgb(59, 25, 129);
+text-align:center;
+}
+.type{ 
+font-family: cursive ;
+color: darkblue;
+font-size:18px;
+display:flex;
+justify-content: center;
+/* text-align:center; */
+/* align-items: center; */
+}
+
+.book_pic{
+height: 200px;
+display: flex;
+justify-content: center;
+
+}
