@@ -37,3 +37,10 @@ display: flex;
 justify-content: center;
 
 }
+
+.home{
+    height: 20px;
+display: flex;
+justify-content: flex-end;
+
+}
