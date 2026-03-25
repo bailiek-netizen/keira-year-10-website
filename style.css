@@ -54,15 +54,16 @@ align-items: flex-end;
  
    
 }
-.book_align{
+.divergent_align{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
+ flex-direction: row;
 }
 .divergent_cover{
     height: 400px;
     border: 10px , solid;
-border-radius: 30px;
-border-color:rgb(100, 11, 11);
+    border-radius: 30px;
+    border-color:rgb(100, 11, 11);
 }
 .divergent_headdings{
     font-family: cursive;
@@ -78,3 +79,41 @@ border-color:rgb(134, 31, 17);
  .divergent_home{
 background-color:rgba(78, 14, 14, 0.644) ;
  }
+ p{
+    font-family: cursive;
+    font-size: 20px;
+
+ }
+ .hungerGames_align{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: row;
+
+   
+}
+.hungerGames_cover{
+    height: 200px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(100, 11, 11);
+}
+.Attribution{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+.shatterMe_cover{
+    height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(29, 45, 139);
+}
+.shatterMe_align{
+display: flex;
+justify-content: flex-start;
+
+}
+.CatchingFire_cover{
+    height: 400px;
+
+}
