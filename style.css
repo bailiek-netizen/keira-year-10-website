@@ -130,6 +130,18 @@ color: darkblue;
 border-radius: 30px;
 border-color:rgb(22, 34, 102);
 }
+.CHERUB_cover{
+    height: 400px;
+     border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(243, 171, 88);
+}
+.PercyJackson_cover{
+    height: 400px;
+     border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(58, 76, 94);
+}
 .button{
     background-color:rgb(172, 233, 204);
     border-radius: 40px;
