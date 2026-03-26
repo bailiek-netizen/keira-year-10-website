@@ -113,7 +113,14 @@ display: flex;
 justify-content: flex-start;
 
 }
+
 .CatchingFire_cover{
     height: 400px;
-
+font-family: Georgia;
+color:rgb(59, 25, 129);
+text-align:center;
+}
+.type{ 
+font-family: Georgia ;
+color: darkblue;
 }
