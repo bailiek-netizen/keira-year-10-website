@@ -146,3 +146,21 @@ border-color:rgb(58, 76, 94);
     background-color:rgb(172, 233, 204);
     border-radius: 40px;
 }
+.block_cover{
+     height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(149, 66, 66);
+}
+.arc_cover{
+    height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(92, 150, 67);
+}
+.recurit_cover{
+     height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(234, 150, 25);
+}
