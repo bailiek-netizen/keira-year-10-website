@@ -65,20 +65,7 @@ align-items: flex-end;
     border-radius: 30px;
     border-color:rgb(100, 11, 11);
 }
-.divergent_headdings{
-    font-family: cursive;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    background-color: rgb(134, 31, 17);
- font-size: 40px;
- font-weight: 300px;
- border: 10px , solid;
-border-radius: 20px;
-border-color:rgb(134, 31, 17);
-}
- .divergent_home{
-background-color:rgba(78, 14, 14, 0.644) ;
- }
+
  p{
     font-family: cursive;
     font-size: 20px;
@@ -120,6 +107,13 @@ font-family: Georgia;
 color:rgb(59, 25, 129);
 text-align:center;
 }
+.mockingjay_cover{
+     height: 410px;
+font-family: Georgia;
+color:rgb(59, 25, 129);
+text-align:center;
+}
+
 .type{ 
 font-family: Georgia ;
 color: darkblue;
@@ -163,4 +157,46 @@ border-color:rgb(92, 150, 67);
     border: 10px , solid;
 border-radius: 30px;
 border-color:rgb(234, 150, 25);
+}
+.ClassA_cover{
+    height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(231, 12, 12);
+}
+.Maxmimum_cover{
+     height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(19, 134, 222);
+}
+.Insurgent_cover{
+    height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(112, 179, 231);
+}
+.Alligent_cover{
+     height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(201, 68, 241);
+}
+.UnravelMe_cover{
+    height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(45, 191, 224);
+}
+.PJOlightingthief_cover{
+    height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(103, 236, 15);
+}
+.PJOseaofmonsters_cover{
+    height: 400px;
+    border: 10px , solid;
+border-radius: 30px;
+border-color:rgb(236, 52, 15);
 }
