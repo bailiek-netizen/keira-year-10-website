@@ -1,4 +1,4 @@
-function button(){
-document.body.style.backgroundColor = "blue";
+function dark_mode(){
+document.body.style.backgroundColor = "black";
 
 };
